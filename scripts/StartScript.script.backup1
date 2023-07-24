@@ -1,0 +1,1 @@
+load_map("DaMap", coord[0, 0, 0], NORTH);
